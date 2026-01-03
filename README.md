@@ -1,6 +1,6 @@
-##Hi there, I’m **Ezekiel** 👋 BSIT Student | Web, Mobile & Game Developer  
+## Hi there, I’m **Ezekiel** 👋 BSIT Student | Web, Mobile & Game Developer  
 
-I enjoy turning ideas into working software, from responsive web apps to mobile experiences and small games [web:41]. I work across the full stack using modern frameworks, focus on clean and maintainable code, and love experimenting with new tools and engines to keep improving my craft [web:44].  
+I enjoy turning ideas into working software, from responsive web apps to mobile experiences and small games. I work across the full stack using modern frameworks, focus on clean and maintainable code, and love experimenting with new tools and engines to keep improving my craft.  
 
 ### Languages and Tools
 
