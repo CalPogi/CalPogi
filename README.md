@@ -1,8 +1,6 @@
-## Hi there, I'm Ezekiel 👋
+##Hi there, I’m **Ezekiel** 👋 BSIT Student | Web, Mobile & Game Developer  
 
-## BSIT Student | Web, Mobile & Game Developer
-
-I enjoy turning ideas into working software, from responsive web apps to mobile experiences and small games. I work across the full stack using modern frameworks, focus on clean and maintainable code, and love experimenting with new tools and engines to keep improving my craft.
+I enjoy turning ideas into working software, from responsive web apps to mobile experiences and small games [web:41]. I work across the full stack using modern frameworks, focus on clean and maintainable code, and love experimenting with new tools and engines to keep improving my craft [web:44].  
 
 ### Languages and Tools
 
@@ -12,6 +10,7 @@ I enjoy turning ideas into working software, from responsive web apps to mobile 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 <!-- Backend -->
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
